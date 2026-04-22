@@ -1,0 +1,229 @@
+2026-04-08 06:30:05 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=BusinessProcess',
+)
+2026-04-08 06:42:44 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Enclosure&c[menu]=ConfigManagementOverview',
+)
+2026-04-08 06:43:04 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Enclosure&c[menu]=ConfigManagementOverview',
+)
+2026-04-10 05:44:54 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=WebApplication',
+)
+2026-04-10 06:08:13 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=WebApplication&c[menu]=SearchCIs',
+)
+2026-04-10 20:15:31 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=Incident&id=1&c[menu]=SearchIncidents',
+)
+2026-04-10 20:16:13 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=stimulus&class=Incident&stimulus=ev_assign&id=1',
+)
+2026-04-10 20:16:29 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-10 20:19:24 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=Organization&id=3&c[menu]=SearchCIs',
+)
+2026-04-10 20:19:38 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=WebApplication',
+)
+2026-04-10 20:24:55 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=FunctionalCI&c%5Bmenu%5D=NewCI',
+)
+2026-04-10 20:28:24 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=Person&id=41&c[menu]=SearchIncidents',
+)
+2026-04-10 20:28:37 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-13 02:32:20 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Contact&c%5Bmenu%5D=NewContact',
+)
+2026-04-13 02:34:39 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Contact&c%5Bmenu%5D=NewContact',
+)
+2026-04-13 02:35:28 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-13 02:35:28 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-13 02:35:29 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-13 02:35:29 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-13 02:35:36 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=FunctionalCI&c%5Bmenu%5D=NewCI',
+)
+2026-04-13 02:41:54 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Contact&c%5Bmenu%5D=NewContact',
+)
+2026-04-13 02:42:23 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Contact&c%5Bmenu%5D=NewContact',
+)
+2026-04-13 02:51:19 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Contact&c%5Bmenu%5D=NewContact',
+)
+2026-04-19 20:57:08 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-19 20:57:09 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-19 20:57:09 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-19 21:02:05 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=1&c[menu]=NotificationsMenu',
+)
+2026-04-19 21:08:10 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=ActionEmail&c[menu]=NotificationsMenu',
+)
+2026-04-19 21:15:00 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=Incident&id=3&c[menu]=SearchIncidents',
+)
+2026-04-20 02:55:38 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=5&c[menu]=NotificationsMenu',
+)
+2026-04-20 02:55:44 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=5&c[menu]=NotificationsMenu',
+)
+2026-04-20 02:56:49 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Problem&c%5Bmenu%5D=NewProblem',
+)
+2026-04-20 02:58:59 | Error   |       | Uncaught Error: Call to undefined method EMail::SetFrom() in C:\xampp\htdocs\test_itop_mail.php:9
+Stack trace:
+#0 {main}
+  thrown | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\test_itop_mail.php',
+  'line' => 9,
+)
+2026-04-20 02:59:29 | Error   |       | Uncaught Error: Call to undefined method EMail::SetSender() in C:\xampp\htdocs\test_itop_mail.php:10
+Stack trace:
+#0 {main}
+  thrown | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\test_itop_mail.php',
+  'line' => 10,
+)
+2026-04-20 02:59:30 | Error   |       | Uncaught Error: Call to undefined method EMail::SetSender() in C:\xampp\htdocs\test_itop_mail.php:10
+Stack trace:
+#0 {main}
+  thrown | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\test_itop_mail.php',
+  'line' => 10,
+)
+2026-04-20 02:59:31 | Error   |       | Uncaught Error: Call to undefined method EMail::SetSender() in C:\xampp\htdocs\test_itop_mail.php:10
+Stack trace:
+#0 {main}
+  thrown | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\test_itop_mail.php',
+  'line' => 10,
+)
+2026-04-20 02:59:53 | Error   |       | Uncaught Error: Call to undefined method EMail::SetSender() in C:\xampp\htdocs\test_itop_mail.php:10
+Stack trace:
+#0 {main}
+  thrown | IssueLog |||
+array (
+  'type' => 1,
+  'file' => 'C:\\xampp\\htdocs\\test_itop_mail.php',
+  'line' => 10,
+)
+2026-04-20 03:20:31 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=5&c[menu]=NotificationsMenu',
+)
+2026-04-20 03:22:52 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=TriggerOnObjectCreate&id=4&c[menu]=NotificationsMenu',
+)
+2026-04-20 03:23:22 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=5&c[menu]=NotificationsMenu',
+)
+2026-04-20 03:47:27 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-20 03:47:27 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?operation=new&class=Incident&c%5Bmenu%5D=NewIncident',
+)
+2026-04-20 03:54:12 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=ActionEmail&id=5&c[menu]=NotificationsMenu',
+)
+2026-04-20 05:57:42 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=TriggerOnObjectCreate&id=4&c[menu]=NotificationsMenu',
+)
+2026-04-20 05:57:47 | Error   | 1     | Unprotected ajax call : Unauthorized access. Please see https://www.itophub.io/wiki/page?id=3_2_0:release:developer#checking_for_the_presence_of_specific_header_in_the_post_to_enhance_protection_against_csrf_attacks | Security |||
+array (
+  'referer' => 'http://localhost/itop/web/pages/UI.php?route=object.modify&class=TriggerOnObjectCreate&id=4&c[menu]=NotificationsMenu',
+)
+2026-04-22 15:42:36 | Error   |       | Uncaught MySQLException: Could not connect to the DB server: mysql_errno = , mysql_error =  in /var/www/html/application/startup.inc.php:107
+ | IssueLog |||
+array (
+  'type' => 1,
+  'file' => '/var/www/html/application/startup.inc.php',
+  'line' => 107,
+)
+2026-04-22 15:44:55 | Error   |       | #0 /var/www/html/core/cmdbsource.class.inc.php(580): CMDBSource::DBQuery('SELECT COUNT(*)...')
+#1 /var/www/html/core/dbobjectset.class.php(962): CMDBSource::Query('SELECT COUNT(*)...')
+#2 /var/www/html/application/applicationcontext.class.inc.php(158): DBObjectSet->CountWithLimit(2)
+#3 /var/www/html/application/applicationcontext.class.inc.php(123): ApplicationContext->ReadContext()
+#4 /var/www/html/sources/Application/WebPage/NiceWebPage.php(206): ApplicationContext->__construct()
+#5 /var/www/html/sources/Application/WebPage/NiceWebPage.php(99): Combodo\iTop\Application\WebPage\NiceWebPage->GetApplicationContext()
+#6 /var/www/html/sources/Application/WebPage/WebPage.php(232): Combodo\iTop\Application\WebPage\NiceWebPage->InitializeScripts()
+#7 /var/www/html/sources/Application/WebPage/NiceWebPage.php(82): Combodo\iTop\Application\WebPage\WebPage->__construct('Inicio de Sesi\xC3...', false)
+#8 /var/www/html/application/loginwebpage.class.inc.php(92): Combodo\iTop\Application\WebPage\NiceWebPage->__construct('Inicio de Sesi\xC3...')
+#9 /var/www/html/application/loginwebpage.class.inc.php(81): LoginWebPage->__construct()
+#10 /var/www/html/application/loginform.class.inc.php(52): LoginWebPage::NewLoginWebPage()
+#11 /var/www/html/application/applicationextension.inc.php(112): LoginForm->OnReadCredentials(0)
+#12 /var/www/html/application/loginwebpage.class.inc.php(498): AbstractLoginFSMExtension->LoginAction('read credential...', 0)
+#13 /var/www/html/application/loginwebpage.class.inc.php(1028): LoginWebPage::Login(0)
+#14 /var/www/html/application/loginwebpage.class.inc.php(1008): LoginWebPage::DoLoginEx('backoffice', false, 0)
+#15 /var/www/html/pages/UI.php(316): LoginWebPage::DoLogin()
+#16 {main} | IssueLog |||
