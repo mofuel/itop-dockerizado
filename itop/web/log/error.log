@@ -227,3 +227,6 @@ array (
 #14 /var/www/html/application/loginwebpage.class.inc.php(1008): LoginWebPage::DoLoginEx('backoffice', false, 0)
 #15 /var/www/html/pages/UI.php(316): LoginWebPage::DoLogin()
 #16 {main} | IssueLog |||
+2026-04-24 05:53:25 | Error   | 1     | Combodo\iTop\Controller\Base\Layout\ObjectController::Combodo\iTop\Controller\Base\Layout\ObjectController::OperationApplyNew : invalid transaction_id ! data: user='admin', class='Incident' | IssueLog |||
+2026-04-24 05:55:28 | Error   | 1     | Combodo\iTop\Controller\Base\Layout\ObjectController::Combodo\iTop\Controller\Base\Layout\ObjectController::OperationApplyNew : invalid transaction_id ! data: user='admin', class='Incident' | IssueLog |||
+2026-04-24 05:56:38 | Error   | 1     | Combodo\iTop\Controller\Base\Layout\ObjectController::Combodo\iTop\Controller\Base\Layout\ObjectController::OperationApplyNew : invalid transaction_id ! data: user='admin', class='Incident' | IssueLog |||

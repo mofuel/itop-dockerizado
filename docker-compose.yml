@@ -1,4 +1,4 @@
-version: '3.8'
+version: "3.8"
 
 services:
 
@@ -7,14 +7,16 @@ services:
     container_name: itop-db
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: itop
-      MYSQL_USER: itop
-      MYSQL_PASSWORD: itop
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
     ports:
       - "3307:3306"
     volumes:
       - db_data:/var/lib/mysql
+    networks:
+      - itop-network
 
   itop:
     build: .
@@ -26,6 +28,31 @@ services:
       - ./itop/web:/var/www/html
     depends_on:
       - db
+    networks:
+      - itop-network
+
+  n8n:
+    image: n8nio/n8n
+    container_name: itop-n8n
+    restart: always
+    ports:
+      - "5678:5678"
+    environment:
+      N8N_BASIC_AUTH_ACTIVE: "true"
+      N8N_BASIC_AUTH_USER: ${N8N_BASIC_AUTH_USER}
+      N8N_BASIC_AUTH_PASSWORD: ${N8N_BASIC_AUTH_PASSWORD}
+    volumes:
+      - n8n_data:/home/node/.n8n
+    depends_on:
+      - itop
+      - db
+    networks:
+      - itop-network
 
 volumes:
   db_data:
+  n8n_data:
+
+networks:
+  itop-network:
+    driver: bridge
