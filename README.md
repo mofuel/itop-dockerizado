@@ -42,12 +42,12 @@ http://localhost:8080
 
 **Windows (PowerShell):**
 ```powershell
-Get-Content backup/itop.sql | docker exec -i itop-db mysql -u itop -pitop itop
+Get-Content backup/itop_completo.sql | docker exec -i itop-db mysql -u root -proot itop
 ```
 
 **Linux/Mac:**
 ```bash
-docker exec -i itop-db mysql -u itop -pitop itop < backup/itop.sql
+docker exec -i itop-db mysql -u root -proot itop < backup/itop_completo.sql
 ```
 
 ---
