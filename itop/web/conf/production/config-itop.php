@@ -255,6 +255,7 @@ $MySettings = array(
 	// url_validation_pattern: Regular expression to validate/detect the format of an URL (URL attributes and Wiki formatting for Text attributes)
 	//	default: '(https?|ftp)\\://([a-zA-Z0-9+!*(),;?&=\\$_.-]+(\\:[a-zA-Z0-9+!*(),;?&=\\$_.-]+)?@)?([a-zA-Z0-9-.]{3,})(\\:[0-9]{2,5})?(/([a-zA-Z0-9:%+\\$_-]\\.?)+)*/?(\\?[a-zA-Z+&\\$_.-][a-zA-Z0-9;:[\\]@&%=+/\\$_.,-]*)?(#[a-zA-Z0-9_.-][a-zA-Z0-9+\\$_.-]*)?'
 	'url_validation_pattern' => '(https?|ftp)\\://([a-zA-Z0-9+!*(),;?&=\\$_.-]+(\\:[a-zA-Z0-9+!*(),;?&=\\$_.-]+)?@)?([a-zA-Z0-9-.]{3,})(\\:[0-9]{2,5})?(/([a-zA-Z0-9:%+\\$_-]\\.?)+)*/?(\\?[a-zA-Z+&\\$_.-][a-zA-Z0-9;:[\\]@&%=+/\\$_.,-]*)?(#[a-zA-Z0-9_.-][a-zA-Z0-9+\\$_.-]*)?',
+    'secure_rest_services' => false,
 );
 
 /**
@@ -287,6 +288,7 @@ $MyModuleSettings = array(
 		'enabled' => true,
 		'itop_backup_incident' => '',
 	),
+    'secure_rest_services' => false,
 );
 
 /**
@@ -296,5 +298,6 @@ $MyModuleSettings = array(
  */
 $MyModules = array(
 	'addons' => array('user rights' => 'addons/userrights/userrightsprofile.class.inc.php'),
+    'secure_rest_services' => false,
 );
 ?>
